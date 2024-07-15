@@ -1,0 +1,129 @@
+.navs {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.submit {
+    color: white;
+    background-color: rgb(162, 10, 238);
+    margin-left: 350px;
+}
+
+.amount {
+    margin-left: 300px;
+}
+
+.avinput {
+    margin-left: 39px;
+}
+
+.vd {
+    margin-left: 247px;
+}
+
+.st {
+    margin-left: 350px;
+}
+
+span {
+    padding-right: 45px;
+}
+
+p span {
+    margin-left: 40px;
+    margin-right: 49px;
+
+}
+
+.one{
+    padding-left: 20px;
+}
+.two{
+    padding-left: 7px;
+}
+.three{
+    padding-left: 10px;
+}
+.four{
+    padding-left: 40px;
+}
+.five{
+    padding-left: 62px;
+}
+.yes{
+    padding-left: 50px;
+}
+.note{
+    padding-left: 51px;
+    
+}
+.navs{
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.submit{
+    color: white;
+    background-color: rgb(162, 10, 238);
+    margin-left: 1000px;
+    font-family: Arial, Helvetica, sans-serif;
+    height: 40px;
+    width: 190px;
+    border-radius: 9px;
+    border-width: 0px;
+}
+
+.amount{
+    margin-left: 415px;
+}
+.input{
+    margin-left: 200px;
+}
+#vd{
+    margin-left: 460px;
+}
+#vk{
+    margin-left: 376px;
+}
+#vb{
+    margin-left: 345px;
+}
+.st{
+    margin-left: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.sm{
+    margin-left: 200px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#sk{
+    margin-right: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#sb{
+    margin-right: 2px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.dashboard-content {
+    padding: 20px;
+    background-color: #f0f0f0;
+    margin: -10px;
+
+
+}
+.card {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(189, 19, 19, 0.1);
+    padding: 80px;
+    
+    width: 200px;
+}
+.card h3 {
+    margin: 10px 0;
+    font-size: 20px;
+}
+.card p {
+    margin: 0;
+    font-size: 16px;
+    color: #555;
+}

@@ -1,0 +1,33 @@
+.dashboard-content {
+    padding-top: 30px;
+    padding-bottom: 20px;
+    height: 530px;
+    
+}
+.card-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 40px;
+    justify-content: center;
+    margin-bottom: -20px;
+}
+.card {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(189, 19, 19, 0.1);
+    padding: 80px;
+    text-align: center;
+    width: 200px;
+}
+.card h3 {
+    margin: 10px 0;
+    font-size: 20px;
+}
+.card p {
+    margin: 0;
+    font-size: 16px;
+    color: #555;
+}
+.bag{
+    height: 20px;
+}
